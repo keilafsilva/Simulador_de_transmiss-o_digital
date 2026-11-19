@@ -1,0 +1,30 @@
+{
+ "base_seed": 20261119,
+ "ebn0_db": [
+  0,
+  2,
+  4,
+  6,
+  8,
+  10,
+  12,
+  14
+ ],
+ "n_bits": 1000000,
+ "reps": 10,
+ "channels": [
+  "awgn",
+  "burst"
+ ],
+ "mods": [
+  "bpsk",
+  "qpsk",
+  "qam16"
+ ],
+ "line": "none",
+ "burst": {
+  "p_gb": 0.01,
+  "p_bg": 0.1,
+  "penalty_db": 12.0
+ }
+}
