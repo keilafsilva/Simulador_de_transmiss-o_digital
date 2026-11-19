@@ -12,7 +12,7 @@ texto ASCII → bits → código de linha → modulação → canal com ruído
 No final, os bits recebidos são comparados com os enviados para calcular a **taxa de erro de bit (BER)**,
 e a **eficiência espectral** de cada configuração é calculada.
 
-**Vídeo de demonstração (até 5 min):** https://drive.google.com/file/d/1QsHu6R8mvYkZ7J1wbaSS5cZqt9ySMFlS/view?usp=sharing
+**Vídeo de demonstração:** https://drive.google.com/file/d/1QsHu6R8mvYkZ7J1wbaSS5cZqt9ySMFlS/view?usp=sharing
 
 ## Autoria e divisão de responsabilidades
 
