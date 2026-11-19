@@ -16,8 +16,6 @@ e a **eficiência espectral** de cada configuração é calculada.
 
 ## Autoria e divisão de responsabilidades
 
-Trabalho realizado individualmente.
-
 | Integrante | Responsabilidades |
 |---|---|
 | Keila Fernanda da Silva | Todas as etapas: implementação, experimentos, análise, documentação e vídeo |
@@ -181,4 +179,3 @@ results/figs/             gráficos
 results/demo_mensagem.txt saída do 3º experimento
 ```
 
-Os nomes `config_A` (modulações) e `config_B` (códigos de linha) vêm da primeira versão do projeto e foram mantidos.
