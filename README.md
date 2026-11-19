@@ -14,12 +14,6 @@ e a **eficiência espectral** de cada configuração é calculada.
 
 **Vídeo de demonstração:** https://drive.google.com/file/d/1QsHu6R8mvYkZ7J1wbaSS5cZqt9ySMFlS/view?usp=sharing
 
-## Autoria e divisão de responsabilidades
-
-| Integrante | Responsabilidades |
-|---|---|
-| Keila Fernanda da Silva | Todas as etapas: implementação, experimentos, análise, documentação e vídeo |
-
 ## Instalação e execução
 
 Requer Python 3.10 ou superior. Todos os comandos são executados dentro da pasta do projeto.
